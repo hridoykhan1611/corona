@@ -1,0 +1,758 @@
+ /*// ==========EXTRA LARGE DEVICE (large desktops, 1200px and up)==========*/
+
+ @media (min-width: 1200px) {}
+
+ /*//=============LARGE DEVICE(desktops, 992px and up)============= */
+
+ @media (min-width: 992px) and (max-width: 1199.98px) {
+
+
+     #spread {
+         padding-top: 50px;
+     }
+
+     .spread_text p {
+         padding: 0 13px;
+     }
+
+     .prevention_head h1 {
+         padding-top: 50px;
+     }
+
+     .safe_head h1 {
+         padding-top: 50px;
+         padding-bottom: 30px;
+     }
+
+     .doctor_head h1 {
+         padding-top: 50px;
+         padding-bottom: 30px;
+     }
+
+     .people_text {
+         padding-top: 50px;
+     }
+
+     .people_text p {
+         padding: 0px 100px;
+     }
+
+     .blog_head {
+         padding-top: 50px;
+     }
+
+     .blog_row {
+         padding-top: 30px;
+     }
+
+     .blog_text h2 {
+         font-size: 28px;
+     }
+
+     #appoinment_part {
+         padding-top: 50px;
+         padding-bottom: 70px;
+     }
+
+     .date_input p {
+         font-size: 20px;
+     }
+
+     .contact_head {
+         padding-top: 50px;
+     }
+
+     .contact_head p {
+         padding: 0 200px;
+     }
+
+ }
+
+ /*//============== MEDIUM DEVICE (tablets, 768px and up)==============*/
+
+ @media (min-width: 768px) and (max-width: 991.98px) {
+
+     .navbar-nav {
+         background: #272223cc;
+         border-radius: 10px;
+         padding: 10px;
+     }
+
+     .navbar-brand img {
+         width: 80%;
+     }
+
+     #spread {
+         padding-top: 50px;
+     }
+
+     .spread_text p {
+         padding: 0 0px;
+         font-size: 15px;
+     }
+
+     .spread_widget_ima img {
+         width: 45%;
+     }
+
+     .spread_widget_ima {
+         padding-top: 30px;
+     }
+
+     .prevention_head h1 {
+         padding-top: 50px;
+     }
+
+     .prevention_head h2 {
+         font-size: 18px;
+     }
+
+     .prevention_head p {
+         font-size: 14px;
+         padding: 0 0px;
+     }
+
+     .safe_head h1 {
+         padding-top: 50px;
+         padding-bottom: 30px;
+     }
+
+
+     .doctor_head h1 {
+         padding-top: 50px;
+         padding-bottom: 30px;
+     }
+
+     .safe_widget_img {
+         padding-top: 20px;
+     }
+
+     .safe_head h2 {
+         font-size: 18px;
+     }
+
+     .safe_head p {
+         font-size: 14px;
+         padding: 0 0px;
+
+     }
+
+
+     .doctor_img img {
+         width: 60%;
+     }
+
+     .doctor_col {
+         margin-bottom: 20px;
+     }
+
+     .doctor_row {
+         padding-bottom: 50px;
+     }
+
+     .people_text {
+         padding-top: 50px;
+     }
+
+     .people_text p {
+         padding: 0px 100px;
+     }
+
+     .blog_head {
+         padding-top: 50px;
+     }
+
+     .blog_row {
+         padding-top: 30px;
+     }
+
+     .blog_text h2 {
+         font-size: 28px;
+     }
+
+     .blog_text p {
+         font-size: 14px;
+         padding-top: 0;
+         margin-bottom: 7px;
+     }
+
+     .blog_text a {
+
+         margin-bottom: 0;
+     }
+
+     #appoinment_part {
+         padding-top: 50px;
+         padding-bottom: 70px;
+     }
+
+     .contact_head {
+         padding-top: 50px;
+     }
+
+     .contact_head p {
+         padding: 0 100px;
+     }
+ }
+
+ /*// ============SMALL DEVICE (landscape phones, 576px and up)============*/
+
+ @media (min-width: 576px) and (max-width: 767.98px) {
+
+     .navbar-nav {
+         background: #272223cc;
+         border-radius: 10px;
+         padding: 10px;
+     }
+
+     .navbar-toggler-icon {
+         width: 1em;
+         height: 1em;
+
+     }
+
+     .navbar-brand img {
+         width: 70%;
+     }
+
+     .banner_text h1 {
+         font-size: 50px;
+     }
+
+     .banner_text h2 {
+         font-size: 50px;
+     }
+
+     .live_part h4 {
+         font-size: 25px;
+     }
+
+     #spread {
+         padding-top: 50px;
+     }
+
+     .spread_text h2 {
+         font-size: 15px;
+         margin-top: 10px;
+     }
+
+     .spread_text p {
+         padding: 0 0px;
+         font-size: 12px;
+         margin-top: 5px;
+     }
+
+     .spread_text a {
+         padding: 3px 10px;
+         margin-bottom: 30px;
+         font-size: 13px;
+     }
+
+     .spread_widget_ima img {
+         width: 45%;
+     }
+
+     .spread_widget_ima {
+         padding-top: 20px;
+     }
+
+
+     .prevention_head h1 {
+         padding-top: 50px;
+     }
+
+     .prevention_head h2 {
+         font-size: 13px;
+         margin-top: 10px;
+     }
+
+     .prevention_head p {
+         font-size: 12px;
+         padding: 0 0px;
+         margin-top: 5px;
+     }
+
+     .prevention_head a {
+         padding: 3px 7px;
+         margin-bottom: 20px;
+         font-size: 13px;
+     }
+
+     .safe_head h1 {
+         padding-top: 50px;
+         padding-bottom: 30px;
+     }
+
+     .safe_widget_img img {
+         width: 45%;
+     }
+
+     .safe_widget_img {
+         padding-top: 0px;
+     }
+
+
+     .safe_head p {
+         font-size: 12px;
+         padding: 0 0px;
+         font-weight: 400;
+         margin-top: 5px;
+     }
+
+
+     .doctor_img {
+         padding-top: 25px;
+     }
+
+
+     .doctor_head h1 {
+         padding-top: 50px;
+         padding-bottom: 30px;
+     }
+
+     .safe_widget_img {
+         padding-top: 20px;
+     }
+
+     .safe_head h2 {
+         font-size: 13px;
+         margin-top: 12px;
+     }
+
+     .safe_head a {
+         padding: 3px 7px;
+         border-radius: 5px;
+         margin-bottom: 10px;
+         font-size: 12px;
+     }
+
+     .doctor_img img {
+         width: 60%;
+     }
+
+     .doctor_col {
+         margin-bottom: 20px;
+     }
+
+     .doctor_row {
+         padding-bottom: 50px;
+     }
+
+     .people_text {
+         padding-top: 50px;
+     }
+
+     .people_text p {
+         padding: 0px 20px;
+     }
+
+     .blog_head {
+         padding-top: 50px;
+     }
+
+     .blog_row {
+         padding-top: 30px;
+     }
+
+     .blog_text h2 {
+         font-size: 20px;
+     }
+
+     .blog_text p {
+         font-size: 12px;
+         padding-top: 0;
+         margin-bottom: 7px;
+         line-height: 1.6
+     }
+
+     .blog_text a {
+
+         margin-bottom: 0;
+         font-size: 12px;
+     }
+
+     .blog_socail span {
+         font-size: 22px;
+     }
+
+     #appoinment_part {
+         padding-top: 50px;
+         padding-bottom: 70px;
+     }
+
+     .contact_head {
+         padding-top: 50px;
+     }
+
+     .contact_head p {
+         padding: 0 100px;
+     }
+
+     .contact_icon a {
+         font-size: 30px;
+         height: 50px;
+         width: 40px;
+     }
+
+     .contact_wedget h1 {
+         font-size: 22px;
+     }
+
+     .contact_wedget p {
+         font-size: 12px;
+     }
+
+
+     #button {
+         width: 40px;
+         height: 40px;
+     }
+
+     #button::after {
+         font-size: 1.5em;
+         line-height: 36px;
+     }
+ }
+
+ /*=========EXTRA SMALL DEVICE=========*/
+ @media (max-width: 575.98px) {
+
+     .navbar-nav {
+         background: #272223cc;
+         border-radius: 10px;
+         padding: 10px;
+     }
+
+     .navbar-toggler-icon {
+         width: 1em;
+         height: 1em;
+
+     }
+
+     .navbar {
+         padding-top: 0;
+     }
+
+     .navbar-brand img {
+         width: 60%;
+     }
+
+     #banner {
+         height: 500px;
+     }
+
+
+     .banner_text {
+         padding-top: 150px;
+     }
+
+     .banner_text h1 {
+         font-size: 30px;
+     }
+
+     .banner_text h2 {
+         font-size: 30px;
+     }
+
+     .live_part {
+         padding-top: 100px;
+     }
+
+     .live {
+         font-size: 22px;
+     }
+
+     .live_part h4 {
+         font-size: 13px;
+         letter-spacing: 2px;
+     }
+
+
+     .dawnload {
+         padding: 3px 15px;
+         font-size: 12px;
+     }
+
+
+     #spread {
+         padding-top: 20px;
+         padding-bottom: 10px;
+     }
+
+     .spread_content h1 {
+         font-size: 25px;
+         padding-bottom: 20px;
+     }
+
+     .spread_row {
+         box-shadow: none !important;
+     }
+
+     .spread_col {
+         margin-bottom: 20px;
+         border-bottom: 2px solid #ff2b4a;
+     }
+
+     .spread_col:hover {
+         color: #ff2b4a;
+         transition: all 1s;
+         -webkit-box-shadow: 0px 9px 0px -1px rgba(255, 43, 74, 1);
+         -moz-box-shadow: 0px 9px 0px -1px rgba(255, 43, 74, 1);
+         box-shadow: 0px 9px 0px -1px rgba(255, 43, 74, 1);
+     }
+
+     .spread_widget_ima img {
+         width: 45%;
+     }
+
+     .spread_widget_ima {
+         padding-top: 30px;
+     }
+
+
+     .spread_text h2 {
+         font-size: 20px;
+         margin-top: 10px;
+     }
+
+     .spread_text p {
+         padding: 0 0px;
+         font-size: 15px;
+         margin-top: 5px;
+     }
+
+     .spread_text a {
+         padding: 3px 10px;
+         margin-bottom: 30px;
+         font-size: 13px;
+     }
+
+
+     .prevention_head h1 {
+         padding-top: 20px;
+         font-size: 25px;
+     }
+
+     .prevention_head h2 {
+         font-size: 20px;
+         margin-top: 10px;
+     }
+
+     .prevention_head p {
+         font-size: 12px;
+         padding: 0 0px;
+         margin-top: 5px;
+     }
+
+     .prevention_head p {
+         font-size: 15px;
+         padding: 0 0px;
+         margin-top: 5px;
+     }
+
+     .prevention_head h1 {
+         padding-top: 20px;
+         font-size: 25px;
+         padding-bottom: 20px;
+     }
+
+     .spread_widget_ima img {
+         width: 30%;
+     }
+
+     .safe_widget_img {
+         padding-top: 0px;
+     }
+
+     .safe_head h1 {
+         padding-top: 20px;
+         padding-bottom: 20px;
+         font-size: 25px;
+     }
+
+     .safe_head p {
+         font-size: 15px;
+         padding: 0 0px;
+         font-weight: 400;
+         margin-top: 5px;
+     }
+
+
+     .doctor_img {
+         padding-top: 25px;
+     }
+
+
+     .doctor_head h1 {
+         padding-top: 50px;
+         padding-bottom: 30px;
+     }
+
+     .safe_widget_img {
+         padding-top: 30px;
+     }
+
+     .safe_widget_img img {
+         width: 30%;
+     }
+
+     .safe_head h2 {
+         font-size: 20px;
+         margin-top: 12px;
+     }
+
+     .safe_head a {
+         padding: 3px 7px;
+         border-radius: 5px;
+         margin-bottom: 10px;
+         font-size: 12px;
+     }
+
+
+     .doctor_head h1 {
+         padding-top: 20px;
+         padding-bottom: 20px;
+         font-size: 25px;
+     }
+
+     .doctor_img img {
+         width: 60%;
+     }
+
+     .doctor_col {
+         margin-bottom: 20px;
+     }
+
+     .doctor_row {
+         padding-bottom: 50px;
+     }
+
+     .people_text {
+         padding-top: 50px;
+     }
+
+     .people_text h1 {
+         font-size: 25px;
+     }
+
+     .people_text p {
+         padding: 0px 0px;
+     }
+
+     .blog_head {
+         padding-top: 20px;
+     }
+
+     .blog_head h1 {
+         font-size: 25px;
+     }
+
+     .blog_row {
+         padding-top: 15px;
+     }
+
+     .blog_text h2 {
+         font-size: 20px;
+     }
+
+     .blog_text p {
+         font-size: 12px;
+         padding-top: 0;
+         margin-bottom: 7px;
+         line-height: 1.6
+     }
+
+     .blog_text a {
+
+         margin-bottom: 0;
+         font-size: 12px;
+     }
+
+     .blog_socail span {
+         font-size: 22px;
+     }
+
+     #appoinment_part {
+         padding-top: 20px;
+         padding-bottom: 20px;
+     }
+
+     #appoinment_part h1 {
+         font-weight: 700;
+         font-size: 23px;
+     }
+
+     .date_input p {
+         font-size: 20px;
+         margin-bottom: 10px;
+     }
+
+     .appoinment_btn {
+         text-align: left !important;
+         margin-top: 30px;
+     }
+
+
+     .msg_btn {
+         font-size: 13px;
+         padding: 7px 20px;
+
+     }
+
+     .contact_head {
+         padding-top: 20px;
+     }
+
+     .contact_head h1 {
+         padding: 0px;
+         font-size: 25px;
+     }
+
+     .contact_head p {
+         padding: 0 20px;
+         font-size: 13px;
+     }
+
+     .contact_icon a {
+         font-size: 30px;
+         height: 50px;
+         width: 40px;
+     }
+
+
+     .contact_wedget {
+         padding-top: 5px;
+     }
+
+     .contact_wedget h1 {
+         font-size: 22px;
+     }
+
+     .contact_wedget p {
+         font-size: 15px;
+         margin-bottom: 5px;
+     }
+
+
+     .footer_text p {
+         font-size: 13px;
+         margin-top: 20px;
+     }
+
+     .footer_area {
+         padding-bottom: 10px;
+     }
+
+     #button {
+         width: 30px;
+         height: 30px;
+         bottom: 43px;
+         right: 20px;
+
+     }
+
+     #button::after {
+         font-size: 1em;
+         line-height: 28px;
+     }
+ }
